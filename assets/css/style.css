@@ -27,6 +27,23 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Raleway", sans-serif;
 }
 
+.pixelated {
+      image-rendering: pixelated;
+}
+
+.kotak{
+  overflow: visible;
+  border-radius: 10px;
+  box-shadow: 0 2px 7px rgba(0, 0, 0, 0.3);
+}
+#gambar{
+  transition: .5s;
+}
+#gambar:hover{
+  transform: scale(1.2);
+}
+
+
 /*--------------------------------------------------------------
 # Back to top button
 --------------------------------------------------------------*/
