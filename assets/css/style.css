@@ -408,9 +408,9 @@ h1, h2, h3, h4, h5, h6 {
 # Hero Section
 --------------------------------------------------------------*/
 #hero {
-  width: 100%;
+  width: 50%;
   height: 100vh;
-  background: url("../img/PAL 2019.jpg") top center;
+  background: url("../img/expo2019.JPG") top center;
   background-size: cover;
   position: relative;
 }
